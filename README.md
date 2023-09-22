@@ -18,3 +18,7 @@ pip install -r requirements.txt
 python detect.py
 ```
 #### enjoy :)
+
+
+Wandb logs:
+https://wandb.ai/intuitivoai/YOLOv8/reports/Naranjas--Vmlldzo1NDcxNTEz?accessToken=ttfh9496lasloubdaw0651z1b1cd3wmnwzg2tt36bccktk8n6gy0wg6wwwszfxay
